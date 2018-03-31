@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/matejsoroka/izp_project_2.svg?branch=master)](https://travis-ci.org/matejsoroka/izp_project_2)
+
 # IZP Project 2
 
 ## [FIT VUT] Second project from curse Introduction to Programming Systems
